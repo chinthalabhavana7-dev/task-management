@@ -1,0 +1,23 @@
+
+.card {
+    height: 260;
+    border-color: red;
+    border-radius: 15px;
+    
+
+}
+.card img{
+   
+    width:200px;
+    border-radius: 10px;
+
+}
+.card h2{
+    font-size: small;
+    font-weight: lighter;
+    font-style: italic;
+
+}
+.card p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
